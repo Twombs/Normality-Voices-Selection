@@ -9,6 +9,8 @@ It can also set the game sound to be either Stereo or Mono (default).
 By default, the GOG and Steam versions of the game come with the original UK voices.
 Many Americans are familiar with the USA voices instead.
 
+![](https://github.com/Twombs/Normality-Voices-Selection/blob/main/NormalityVS2.png?raw=true)
+
 If you have the original CD with the American voices, then you could use that with this program if you wish to toggle between.
 Or if you have obtained the 'NormalityUsVoicesPatch.zip' (provided by Sweetz for GOG version), you could extract that into the game's main folder, then run this program there.
 
